@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preetam Pati</h1>
 <h3 align="center">A passionate developer from Kolkata, India</h3>
 
-<img align="right" alt="cosmiiccat" width="200" height="200" src="https://imgs.search.brave.com/V32XjNHvgX4BCv_4HsUO5mMaNa4v-52GQ4gfCqgLfHk/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzIxMzE5/OTMvc2NyZWVuc2hv/dHMvNDk0ODczNi90/aG91Z2h0d29ya3Mt/Z2lmX2RyaWJiYmxl/LmdpZg.gif">
+<img align="right" alt="cosmiiccat" width="300" height="200" src="https://imgs.search.brave.com/V32XjNHvgX4BCv_4HsUO5mMaNa4v-52GQ4gfCqgLfHk/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzIxMzE5/OTMvc2NyZWVuc2hv/dHMvNDk0ODczNi90/aG91Z2h0d29ya3Mt/Z2lmX2RyaWJiYmxl/LmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmiiccat&label=Profile%20views&color=0e75b6&style=flat" alt="cosmiiccat" /> </p>
 
