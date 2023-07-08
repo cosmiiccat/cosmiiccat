@@ -1,21 +1,7 @@
 <h1 align="center">Hello World👋, I'm Preetam Pati</h1>
-<h3 align="center">A passionate developer from Kolkata, India</h3>
+<h3 align="center">Kolkata, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmiiccat&label=Profile%20views&color=0e75b6&style=flat" alt="cosmiiccat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmiiccat" alt="cosmiiccat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Inverse Reinforcement Learning**
-
-- 🌱 I’m currently learning **LSTM - Neural Networks**
-
-- 💬 Ask me about **react, unity, mixed reality, irl**
-
-- 📫 How to reach me **preetam6teen@gmail.com**
-
-- ⚡ Fun fact **Nothing xD**
+<h2>Greetings, fellow humans! I’m a CSE student with a flair for deep learning and NLP. I have ventured into reinforcement learning in fantastical realms like MR and VR, and fine-tuned amazing models like BERT, LLAMA, GPT, and IRL GANs. I’m always hungry to learn new things and solve wicked problems. Behold my projects, they are out of this world! And if you share my appetite, don’t be shy, let’s unite. We can cook some recipes together that can make the world much better. </h2>
 
 <!--
 **cosmiiccat/cosmiiccat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
