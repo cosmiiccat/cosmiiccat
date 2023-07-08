@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋, I'm Preetam Pati</h1>
 <h3 align="center">Kolkata, India</h3>
 
-<h2>Greetings, fellow humans! I’m a CSE student with a flair for deep learning and NLP. I have ventured into reinforcement learning in fantastical realms like MR and VR, and fine-tuned amazing models like BERT, LLAMA, GPT, and IRL GANs. I’m always hungry to learn new things and solve wicked problems. Behold my projects, they are out of this world! And if you share my appetite, don’t be shy, let’s unite. We can cook some recipes together that can make the world much better. </h2>
+<p>Greetings, fellow humans! I’m a CSE student with a flair for deep learning and NLP. I have ventured into reinforcement learning in fantastical realms like MR and VR, and fine-tuned amazing models like BERT, LLAMA, GPT, and IRL GANs. I’m always hungry to learn new things and solve wicked problems. Behold my projects, they are out of this world! And if you share my appetite, don’t be shy, let’s unite. We can cook some recipes together that can make the world much better. </p>
 
 <!--
 **cosmiiccat/cosmiiccat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
