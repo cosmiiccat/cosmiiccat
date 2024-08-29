@@ -1,7 +1,12 @@
-<h1 align="center">Hello World👋, I'm Preetam Pati</h1>
-<h3 align="center">Kolkata, India</h3>
+<h1 align="center">Preetam Pati</h1>
+<h3 align="center">MLE Intern @ Hyperverge | Ex SDE Intern @ Superbolter | MLR @ IISc | CS @ IIITK</h3>
 
-<p>Greetings, fellow humans! I’m a CSE student with a flair for deep learning and NLP. I have ventured into reinforcement learning in fantastical realms like MR and VR, and fine-tuned amazing models like BERT, LLAMA, GPT, and IRL GANs. I’m always hungry to learn new things and solve wicked problems. Behold my projects, they are out of this world! And if you share my appetite, don’t be shy, let’s unite. We can cook some recipes together that can make the world much better. </p>
+<p>
+🔍 Passionate about Deep Learning mostly NLP and CV, Software Engineering, AR-VR Development and Applied Research.
+💡 Experienced in research and development with a strong background in Machine Learning and Software Engineering.
+🌱 Worked on diverse projects, from academia at IISc Bangalore and collaborations with Cambridge and IIT KGP to industry roles at companies like Superbolter and Unico.
+🚀 Open to collaborations on innovative projects, especially those that bridge the gap between research and real-world applications.
+</p>
 
 <!--
 **cosmiiccat/cosmiiccat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
