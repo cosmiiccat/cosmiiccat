@@ -6,6 +6,15 @@
 💡 Experienced in research and development with a strong background in Machine Learning and Software Engineering.
 🌱 Worked on diverse projects, from academia at IISc Bangalore and collaborations with Cambridge and IIT KGP to industry roles at companies like Superbolter and Unico.
 🚀 Open to collaborations on innovative projects, especially those that bridge the gap between research and real-world applications.
+
+💬 Reach out to me at <a href="https://www.linkedin.com/in/cosmiiccat/" target="_blank">Linkedin</a> for further communication.
+
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cosmiiccat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <!--
