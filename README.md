@@ -1,5 +1,5 @@
 <h1 align="center">Preetam Pati</h1>
-<h3 align="center">MLE Intern @ Hyperverge | ML @ Scaler | Ex SDE Intern @ Superbolter | MLR @ IISc | CS @ IIITK</h3>
+<h3 align="center">SWE I (Intern) @ Atlan | ML @ Scaler | Ex SDE Intern @ Superbolter | MLR @ IISc | CS @ IIITK</h3>
 
 <p> </br>
 🔍 Passionate about Deep Learning mostly NLP and CV, Software Engineering, AR-VR Development and Applied Research. </br>
